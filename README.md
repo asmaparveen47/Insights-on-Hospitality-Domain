@@ -12,7 +12,11 @@ To analyze and provide insights to Atliq Grands.
 
 ✅ Bookings- In this page I comprehend the Key insights of booking such as Booking states , Occupancy rate , Booking cancellation and may more.
 
-✅ Revenue - In this page you can see the revenue trends with respect to weeks and Booking category , Property type and Booking Platforms. 
+✅ Revenue - In this page you can see the revenue trends with respect to weeks and Booking category , Property type and Booking Platforms.
+
+
 » 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 - Provide insights to the revenue team in the Hospitality domain.
 » 𝗗𝗼𝗺𝗮𝗶𝗻- Hospitality 
 » 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻-Revenue
+
+links - https://www.linkedin.com/posts/asmaparveen4792_codebasics-resumechallenge-hospitality-activity-7237388717882052608-8R__?utm_source=share&utm_medium=member_desktop
